@@ -1,0 +1,33 @@
+/* custom.css */
+.app-header {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  padding: 4rem;
+}
+
+.app-title {
+  font-size: 24px;
+  text-align: center;
+}
+.heading{
+  text-align: left;
+  padding: 1rem;
+}
+.app-paragraph {
+  margin: 20px;
+}
+.bg-image {
+  background-image: url('1.jpeg'); 
+  background-size: cover; 
+  background-position: center; 
+}
+
+
+.btn btn-primary {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 20px; 
+}
